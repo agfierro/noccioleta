@@ -1,0 +1,235 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ba",
+				"background"
+			],
+			[
+				"fo",
+				"followus"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"ca",
+				"cabeceras"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<html>	\n",
+			"file": "index.html",
+			"file_size": 0,
+			"file_write_time": 1418560675000000,
+			"settings":
+			{
+				"buffer_size": 8,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/montse/Documents/web noccioleta/noccioleta/formulario.html",
+		"/Users/montse/Documents/web noccioleta/noccioleta/js/demo.js",
+		"/Users/montse/Documents/web noccioleta/noccioleta/js/modernizr.custom.86080.js",
+		"/Users/montse/Documents/web noccioleta/noccioleta/js/jquery-1.7.1.min.js",
+		"/Users/montse/Documents/web noccioleta/noccioleta/demo.js",
+		"/Users/montse/Documents/web noccioleta/noccioleta/demo.css",
+		"/Users/montse/Documents/web noccioleta/noccioleta/css/style4.css",
+		"/Users/montse/Documents/web noccioleta/biografia.html",
+		"/Users/montse/Documents/web noccioleta/noccioleta/no/demo.css",
+		"/Users/montse/Documents/web noccioleta/noccioleta/css/demo.css",
+		"/Users/montse/Documents/web noccioleta/noccioleta/contacto.php",
+		"/Users/montse/Documents/web noccioleta/noccioleta old/css/styles.css",
+		"/Users/montse/Documents/web noccioleta/noccioleta/index (2).html",
+		"/Users/montse/Documents/web noccioleta/monami/monami/css/styles.css",
+		"/Users/montse/Documents/web noccioleta/monami/monami/formulario.html",
+		"/Users/montse/Documents/web noccioleta/noccioleta 2/css/style4.css",
+		"/Users/montse/Documents/web noccioleta/noccioleta 2/js/modernizr.custom.86080.js",
+		"/Users/montse/Documents/web noccioleta/noccioleta/css/styles.css",
+		"/Users/montse/Documents/web noccioleta/noccioleta/noccioleta/css/screen.css",
+		"/Users/montse/Documents/web noccioleta/noccioleta/noccioleta/index (2).html",
+		"/Users/montse/Documents/web noccioleta/noccioleta/noccioleta/js/jquery.backstretch.min.js",
+		"/Users/montse/Documents/web noccioleta/noccioleta/noccioleta/js/jquery.isotope.min.js",
+		"/Users/montse/Documents/web noccioleta/noccioleta/noccioleta/js/scripts.js",
+		"/Users/montse/Documents/web noccioleta/noccioleta/noccioleta/js/jquery.js",
+		"/Users/montse/Downloads/jquery/jquery.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"input",
+			"butt",
+			"h2",
+			"@",
+			"media",
+			"span",
+			"portada",
+			"footer"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 8,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8,
+								8
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 154.0,
+	"status_bar_visible": true
+}
