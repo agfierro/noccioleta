@@ -1,1 +1,64 @@
-prueba git
+
+body 
+{
+    font-family: "Times New Roman";
+    font-size: 1em;
+}
+body ul 
+{
+    background: blue;
+}
+footer
+{
+    text-align:  center;
+}
+header
+{
+    background: #343B54;
+    color: white;
+    overflow: hidden;
+    padding: 0 1em;
+}
+header figure
+{
+    float: left;
+}
+header #avatar
+{
+    margin: 0.5em 0.5em 0 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+header #avatar img
+{
+    border-radius: 50%;
+    padding: 1em 1em;
+    width: 100px;
+}
+nav ul
+{
+    list-style: none;
+    margin: 0;
+    padding: 0; 
+}
+nav ul li a
+{
+    color: white;
+    display: block;
+    margin-bottom: 0;
+    padding: 0.5em 0;
+}
+section
+{
+    background: #aaaaaa;
+    padding: 0 0.5em;
+}
+.follow 
+{
+    padding: 0em;
+    position: absolute;
+    right: 0;
+    border: 1px solid red;
+}
+

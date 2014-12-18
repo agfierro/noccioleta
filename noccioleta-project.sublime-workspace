@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"hea",
+				"header	Tag"
+			],
+			[
 				"ba",
 				"background"
 			],
@@ -39,17 +43,6 @@
 	},
 	"buffers":
 	[
-		{
-			"contents": "<html>	\n",
-			"file": "index.html",
-			"file_size": 0,
-			"file_write_time": 1418560675000000,
-			"settings":
-			{
-				"buffer_size": 8,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -75,6 +68,11 @@
 	},
 	"file_history":
 	[
+		"/Users/montse/Documents/web noccioleta/noccioleta/index.html",
+		"/Users/montse/Documents/web noccioleta/noccioleta si/css/demo.css",
+		"/Users/montse/Documents/web noccioleta/noccioleta si/css/style4.css",
+		"/Users/montse/Documents/web noccioleta/noccioleta si/index.html",
+		"/Users/montse/Documents/web noccioleta/noccioleta/css/style.css",
 		"/Users/montse/Documents/web noccioleta/noccioleta/formulario.html",
 		"/Users/montse/Documents/web noccioleta/noccioleta/js/demo.js",
 		"/Users/montse/Documents/web noccioleta/noccioleta/js/modernizr.custom.86080.js",
@@ -142,35 +140,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "index.html",
-					"settings":
-					{
-						"buffer_size": 8,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								8,
-								8
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
